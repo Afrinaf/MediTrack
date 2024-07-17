@@ -28,17 +28,28 @@ Architecture Diagram:
 ![eprescription drawio](https://github.com/user-attachments/assets/b41c02a1-eb4f-4103-83e2-b9cd23e2590d)
 
 Output Screenshot:
+
+Registration Page:
+
+![Screenshot (227)](https://github.com/user-attachments/assets/eb3ce4f4-5a7e-4948-b70d-5244f740cfed)
+
 Doctor Interface:
-![Screenshot (203)](https://github.com/user-attachments/assets/0f0fdc40-2ba7-4eb7-bb9d-f92354f1b786)
-![Screenshot (201)](https://github.com/user-attachments/assets/a58248c7-e28d-4076-964a-d9591e699e69)
+
+[eprescription-7a141-default-rtdb-export.json](https://github.com/user-attachments/files/16266921/eprescription-7a141-default-rtdb-export.json)
 ![Screenshot (200)](https://github.com/user-attachments/assets/8ef3cc02-e59f-417d-b3cd-6ddbfde014af)
 
+![Screenshot (201)](https://github.com/user-attachments/assets/a58248c7-e28d-4076-964a-d9591e699e69)
+
+![Screenshot (203)](https://github.com/user-attachments/assets/0f0fdc40-2ba7-4eb7-bb9d-f92354f1b786)
+
 pharmacy Interface:
+
 ![Screenshot (226)](https://github.com/user-attachments/assets/dd1827a6-65ba-4fa2-aa9d-9fb2f12febbb)
 
 prescription PDF:
 [prescription_1714288885644.pdf](https://github.com/user-attachments/files/16266751/prescription_1714288885644.pdf)
 
 Database Structure:
-[eprescription-7a141-default-rtdb-export.json](https://github.com/user-attachments/files/16266730/eprescription-7a141-default-rtdb-export.json)
+[eprescription-7a141-default-rtdb-export.json](https://github.com/user-attachments/files/16266927/eprescription-7a141-default-rtdb-export.json)
+
 
