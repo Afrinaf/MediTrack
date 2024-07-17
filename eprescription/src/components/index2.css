@@ -1,0 +1,64 @@
+.login-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to right, #56ccf2, #2f80ed); /* Blue gradient background */
+}
+
+.login-card {
+  display: flex;
+  width: 800px; /* Adjust the width as needed */
+  height: 400px; /* Adjust the height as needed */
+  padding: 2rem;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.login-illustration {
+  flex: 1;
+  height: 100%; /* Fill the entire height of the card */
+  background: url('../assets/log.gif') no-repeat center center;
+  background-size: cover;
+}
+
+.login-form {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding-left: 2rem;
+  padding-top: 4rem; /* Adjust the spacing between image and form */
+}
+
+.login-form h2 {
+  margin-bottom: 2rem;
+}
+
+.login-form input {
+  margin-bottom: 2rem;
+  padding: 0.5rem;
+  width: 284px; /* Set the width to match the login button */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.login-form button {
+  padding: 0.5rem;
+  width: 284px; /* Set the width to match the input fields */
+  border: none;
+  border-radius: 5px;
+  background-color: #2f80ed;
+  color: white;
+  cursor: pointer;
+}
+
+.login-form button:hover {
+  background-color: #56ccf2;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 8px;
+}
