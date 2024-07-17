@@ -1,3 +1,4 @@
+![eprescription drawio](https://github.com/user-attachments/assets/b41c02a1-eb4f-4103-83e2-b9cd23e2590d)
 
 MediTrack+ is an innovative project poised to revolutionize medical inventory 
 management through the seamless integration of cutting-edge technologies. 
