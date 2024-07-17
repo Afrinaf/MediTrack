@@ -36,7 +36,6 @@ Registration Page:
 
 Doctor Interface:
 
-[eprescription-7a141-default-rtdb-export.json](https://github.com/user-attachments/files/16266921/eprescription-7a141-default-rtdb-export.json)
 ![Screenshot (200)](https://github.com/user-attachments/assets/8ef3cc02-e59f-417d-b3cd-6ddbfde014af)
 
 ![Screenshot (201)](https://github.com/user-attachments/assets/a58248c7-e28d-4076-964a-d9591e699e69)
