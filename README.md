@@ -25,6 +25,7 @@ promising to revolutionize the way healthcare facilities track, monitor, and man
 their resources.
 
 Architecture Diagram:
+
 ![eprescription drawio](https://github.com/user-attachments/assets/b41c02a1-eb4f-4103-83e2-b9cd23e2590d)
 
 Output Screenshot:
